@@ -94,12 +94,7 @@ Update-Database
 
 
 
----
 
-Demo Credentials
-
-
----
 
 Folder Structure
 
