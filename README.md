@@ -135,11 +135,6 @@ How It Works
 
 ---
 
-Screenshots
-
-
----
-
 Skills Demonstrated
 
 ASP.NET MVC
