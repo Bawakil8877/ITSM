@@ -70,7 +70,7 @@ Installation Guide
 
 
 
-git clone https://github.com/YourGitHubUsername/ITSM.git
+git clone https://github.com/Bawakil8877/ITSM.git
 
 2. Open the project in Visual Studio.
 
